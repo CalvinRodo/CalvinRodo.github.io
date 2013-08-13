@@ -43,6 +43,8 @@ After it's installed open up a shell (powershell, terminal, etc...)
 8. Run grunt init to build the package
 
     grunt init
+    
+My next step is to automate these using a provisioning tool like chef or puppet.
 
 
 
