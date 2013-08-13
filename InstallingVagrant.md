@@ -40,7 +40,9 @@ After it's installed open up a shell (powershell, terminal, etc...)
     
     npm install
     
-    npm install grunt-cli
+    npm install grunt-cli -g
+    
+    npm install grunt --save-dev
 
 8. Run grunt init to build the package
 
