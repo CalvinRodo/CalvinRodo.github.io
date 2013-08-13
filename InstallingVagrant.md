@@ -39,6 +39,8 @@ After it's installed open up a shell (powershell, terminal, etc...)
     cd wet-boew
     
     npm install
+    
+    npm install grunt-cli
 
 8. Run grunt init to build the package
 
